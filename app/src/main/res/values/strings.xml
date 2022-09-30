@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookListApplication</string>
+
+    <string name="keyword_hint">키워드를 입력해주세요.</string>
+    <string name="book_authod_text">by %s</string>
+    <string name="book_total_count">검색된 책 수 : %d</string>
+</resources>
